@@ -59,13 +59,7 @@ FastAPI | Streamlit | Git | GitHub | Firebase | REST APIs
 - Advanced GenAI & Agentic AI systems  
 - Data Engineering for scalable pipelines  
 
----
-
-## 🎯 2026 Goals
-- Get placed as **Data Scientist / GenAI Engineer**  
-- Build 5 production-level AI projects  
-- Contribute to open-source AI projects  
-- Master end-to-end ML deployment  
+ Master end-to-end ML deployment  
 
 ---
 
